@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kruthi-sb
 - 👀 I’m interested in Artificial Intelligence and Machine learning
-- 🌱 I’m currently learning Python and Machine Learning
+- 🌱 I’m currently into Deep Learning projects
 - 💞️ I’m looking to collaborate on open source projects
 
 
